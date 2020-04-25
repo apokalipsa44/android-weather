@@ -1,2 +1,3 @@
 rootProject.name='android-weather'
 include ':app'
+include ':app:quotes'

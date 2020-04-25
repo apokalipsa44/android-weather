@@ -1,4 +1,4 @@
-package com.michau.android_weather
+package com.michau.quotes
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
